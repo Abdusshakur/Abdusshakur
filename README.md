@@ -32,7 +32,7 @@ I enjoy solving real-world problems—like transaction verification logic, fraud
 ---
 
 ### 💡 Let's Connect
-📫 **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdusshakur-abdurrahman/))** | 📧 `aabdusshakur01@gmail.com` | 🐙 **GitHub: [@Abdusshakur](https://github.com/Abdusshakur)**
+📫 **[LinkedIn](https://www.linkedin.com/in/abdusshakur-abdurrahman/)** | 📧 `aabdusshakur01@gmail.com` | 🐙 **GitHub: [@Abdusshakur](https://github.com/Abdusshakur)**
 
 ---
 
