@@ -20,8 +20,6 @@ I enjoy solving real-world problems—like transaction verification logic, fraud
 
 * 🛡️ **[TrustShieldAI_v2](https://github.com/Abdusshakur/TrustShieldAI_v2)** — A Python project analyzing fraud patterns in Nigerian mobile money & POS transactions.
 * 🏫 **[Nexus School Management System](https://github.com/Abdusshakur/nexus-school-mangement-system)** — A full-stack web application built with TypeScript, featuring structured database relationships. [Live Demo](https://nexus-school-mangement-system.vercel.app)
-* ⚡ **[Bank Transfer Requery Lambda](https://github.com/Abdusshakur/bank-transfer-requery-lambda-service-practice)** — A serverless AWS script handling background payment status checks.
-* ♟️ **[FlaskChess](https://github.com/Abdusshakur/FlaskChess)** — Interactive chess game built with Flask & Python. [Play Here](https://calm-mountain-96098.herokuapp.com/)
 * 📋 **[Task-Tracker](https://github.com/Abdusshakur/Task-Tracker)** — A Python-based task management application.
 
 ---
@@ -34,7 +32,7 @@ I enjoy solving real-world problems—like transaction verification logic, fraud
 ---
 
 ### 💡 Let's Connect
-📫 **[LinkedIn](https://linkedin.com/in/your-profile)** | 📧 `your.email@example.com` | 🐙 **GitHub: [@Abdusshakur](https://github.com/Abdusshakur)**
+📫 **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdusshakur-abdurrahman/))** | 📧 `aabdusshakur01@gmail.com` | 🐙 **GitHub: [@Abdusshakur](https://github.com/Abdusshakur)**
 
 ---
 
