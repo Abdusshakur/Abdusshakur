@@ -1,4 +1,4 @@
-# Hi, I'm Abdusshakur Abdurrahman 👋
+# Hi, I'm Abdusshakur Abdurrahman 
 
 **Backend & Data Systems Practitioner** | *B.Eng. Mechatronics Engineering*
 
